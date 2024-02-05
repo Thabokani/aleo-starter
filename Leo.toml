@@ -1,0 +1,16 @@
+[project]
+name = "aleo-starter"
+version = "0.0.1"
+description = ""
+license = "MIT"
+
+[remote]
+author = "" 
+
+[target]
+curve = "bls12_377"
+proving_system = "groth16"
+
+[dependencies]
+# Define dependencies here in format:
+# name = { package = "package-name", author = "author", version = "version" }
